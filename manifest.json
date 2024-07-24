@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "Product Price Tracker",
+    "description": "Tracking prices.",
+    "version": "1.0",
+    "icons": {
+        "16": "./images/dollar16.png",
+        "32": "./images/dollar32.png",
+        "48": "./images/dollar48.png",
+        "128": "./images/dollar128.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "storage"
+    ],
+    "host_permissions": [
+    "https://*/",
+    "http://*/"
+    ],
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    }
+}

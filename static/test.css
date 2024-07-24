@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 150%;
+    position: relative;
+}
+
+header {
+    width: 100%;
+    height: 7vh;
+    background-color: darkgray;
+    display: flex;
+    position: fixed;
+    align-content: center;
+    z-index: 1000;
+}
+
+#space {
+    width: 100%;
+    height: 7vh;
+}
+
+header span {
+    display: flex;
+    color: yellow;
+}
+
+h1 {
+    /* font-size: 200%; */
+    font-family: inherit;
+    margin-top: 2vh;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+#main {
+    width: 100%;
+    height: auto;
+    /* Adjusted to auto to fit content */
+    display: flex;
+    flex-direction: column;
+    /* Stack items vertically */
+    padding: 1% 0;
+    /* margin-top: 7vh; */
+}
+
+.product {
+    display: flex;
+    /* Changed to flex to adjust internal alignment */
+    width: auto;
+    /* Adjusted to fit content */
+    /* border: solid; */
+    /* border-color: blue; */
+    position: relative;
+    padding: 20px;
+    box-shadow: 0px 0px 16px 4px rgba(0, 0, 0, 0.2);
+    margin: 16px;
+    /* Adjusted margin */
+}
+
+.image {
+    border-color: rgb(162, 0, 255);
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+/* ####################################################### */
+
+.product {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.holder {
+    flex: 1;
+    padding: 10px;
+}
+
+.image.holder img {
+    max-width: 100px;
+    max-height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.prod-info .info-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.card__data {
+    display: flex;
+    width: 100%;
+}
+
+.card__right,
+.card__left {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.card__right .item,
+.card__left .item {
+    padding: 5px 0;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+.actions.holder .btn-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.actions.holder .action {
+    margin: 5px 0;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}
+
+.actions.holder .action:hover {
+    background-color: #0056b3;
+}
+
+.actions.holder .action:active {
+    background-color: #003f7f;
+}
+
+
+
+
+
+
+/* ####################################################### */
+
+
+
+
+button.action {
+    /* Assuming you already have styles for the button */
+    /* Example: */
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+button.action:hover {
+    background: #0056b3;
+}
+
+
+
+
+/* modal */
+.overlay {
+    background-color: rgba(100, 100, 100, 0.5);
+    backdrop-filter: blur(5px);
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    background-color: white;
+    color: black;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15vh;
+    padding: 32px;
+
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.modal p {
+    margin-bottom: 32px;
+}
+
+#confirm-delete {
+    margin-right: 40px;
+    color: rgb(255, 0, 0);
+}
+
+/* modal */
+
+/* modal Edit Form */
+.error {
+    text-align: center;
+    color: red
+}
+
+#login-form label {
+    display: block;
+    margin-bottom: 2vh;
+}
+
+.edit-form-btn {
+    margin-right: 4vh;
+}
+
+/* modal Edit Form */
+
+/* modal Details Form */
+#details-price-container {
+    max-height: 150px; /* Set the maximum height as desired */
+    overflow: auto; /* Allow scrolling if content exceeds the max height */
+    padding: 10px; /* Optional: Add some padding */
+    border: 1px solid #ccc; /* Optional: Add a border */
+}
+
+#details-price-container p {
+    margin: 10px 0; /* Add some margin to the paragraphs for spacing */
+}
+/* modal Details Form */

@@ -1,0 +1,413 @@
+{
+  "productStorage": {
+    "1721816892031-1730272624": {
+      "_id": "1721816892031-1730272624",
+      "activeOnSite": true,
+      "data": [
+        {
+          "attributes": {},
+          "classList": {},
+          "tagName": "SPAN",
+          "textContent": "Gold Münze"
+        },
+        {
+          "attributes": {},
+          "classList": {},
+          "currency": "€",
+          "parentAttributes": {
+            "class": "flex items-center space-x-2 text-2xl font-semibold"
+          },
+          "parentTagName": "DIV",
+          "productPrice": "2.460,80",
+          "tagName": "SPAN",
+          "textContent": "2.460,80 €"
+        },
+        {
+          "attributes": {
+            "alt": "",
+            "class": "aspect-1 w-full max-w-[80px] cursor-pointer select-none rounded-lg border border-gray-200 bg-white transition-[border] duration-500 md:max-w-full lg:h-20 lg:w-20 lg:hover:border-gray-300  object-contain p-2  md:h-14 md:w-14",
+            "loading": "lazy",
+            "src": "/cdn-cgi/image/f=auto,width=62/https://ps.kettner-edelmetalle.de/img/products/1-unze-gold-krügerrand-2023-c88a8054.jpg",
+            "srcset": "/cdn-cgi/image/f=auto,width=124/https://ps.kettner-edelmetalle.de/img/products/1-unze-gold-krügerrand-2023-c88a8054.jpg 2x"
+          },
+          "classList": {
+            "0": "aspect-1",
+            "1": "w-full",
+            "2": "max-w-[80px]",
+            "3": "cursor-pointer",
+            "4": "select-none",
+            "5": "rounded-lg",
+            "6": "border",
+            "7": "border-gray-200",
+            "8": "bg-white",
+            "9": "transition-[border]",
+            "10": "duration-500",
+            "11": "md:max-w-full",
+            "12": "lg:h-20",
+            "13": "lg:w-20",
+            "14": "lg:hover:border-gray-300",
+            "15": "object-contain",
+            "16": "p-2",
+            "17": "md:h-14",
+            "18": "md:w-14"
+          },
+          "src": "https://ps.kettner-edelmetalle.de/cdn-cgi/image/f=auto,height=1200/https://ps.kettner-edelmetalle.de/img/products/1-unze-gold-kr%C3%BCgerrand-2023-c88a8054.png",
+          "tagName": "IMG",
+          "textContent": ""
+        }
+      ],
+      "postAdditionPriceChange": {
+        "1721816896199": 2460.8,
+        "1721817362530": 2460.8,
+        "1721817520135": 2460.8,
+        "1721822594929": 2460.8,
+        "1721823184930": 2460.8,
+        "1721824553093": 2460.8,
+        "1721824793984": 2460.8,
+        "1721824811695": 2460.8,
+        "1721824814776": 2460.8,
+        "1721824817397": 2460.8,
+        "1721824853273": 2460.8,
+        "1721824884040": 2460.8,
+        "1721824915971": 2460.8,
+        "1721825837728": 2460.8,
+        "1721825965778": 2460.8,
+        "1721826026403": 2460.8,
+        "1721826078659": 2460.8,
+        "1721826129290": 2460.8,
+        "1721826210913": 2460.8,
+        "1721826330580": 2460.8,
+        "1721826341621": 2460.8,
+        "1721826350561": 2460.8,
+        "1721826361598": 2460.8,
+        "1721827024721": 2460.8,
+        "1721829209426": 2362.91,
+        "1721829411951": 2460.8,
+        "1721829478678": 2460.8,
+        "1721829946294": 2460.8,
+        "1721830083843": 2460.8,
+        "1721830117472": 2460.8,
+        "1721830503928": 2460.8,
+        "1721830600841": 2460.8,
+        "1721831875056": 2460.8,
+        "1721831903301": 2460.8,
+        "1721831906675": 2460.8,
+        "1721831913291": 2460.8,
+        "1721831919710": 2460.8,
+        "1721831927814": 2460.8,
+        "1721840365051": 2474.55,
+        "1721840432999": 2474.55,
+        "1721840435987": 2474.55
+      },
+      "tabUrl": "https://www.kettner-edelmetalle.de/Goldmuenzen/Kruegerrand/1025604-1-unze-gold-kr%C3%BCgerrand-2024.html"
+    },
+    "1721826725909-7501571573": {
+      "_id": "1721826725909-7501571573",
+      "activeOnSite": true,
+      "data": [
+        {
+          "attributes": {
+            "class": "MuiTypography-root MuiTypography-h4 css-171duq7"
+          },
+          "classList": {
+            "0": "MuiTypography-root",
+            "1": "MuiTypography-h4",
+            "2": "css-171duq7"
+          },
+          "tagName": "H1",
+          "textContent": "LASCANA Kurzarmshirt, mit Biesenstruktur, bügelfreies T-Shirt aus moderner Strukturware"
+        },
+        {
+          "attributes": {
+            "class": "MuiTypography-root MuiTypography-h4 css-om3qbm"
+          },
+          "classList": {
+            "0": "MuiTypography-root",
+            "1": "MuiTypography-h4",
+            "2": "css-om3qbm"
+          },
+          "currency": "€",
+          "parentAttributes": {
+            "class": "MuiBox-root css-13brihr"
+          },
+          "parentTagName": "DIV",
+          "productPrice": "29,99",
+          "tagName": "DIV",
+          "textContent": "29,99 €"
+        },
+        {
+          "attributes": {
+            "alt": "LASCANA Kurzarmshirt, mit Biesenstruktur, bügelfreies T-Shirt aus moderner Strukturware",
+            "data-nimg": "fill",
+            "data-testid": "0",
+            "decoding": "async",
+            "fetchpriority": "high",
+            "loading": "eager",
+            "src": "https://bilder.baur.de/i/empiriecom/1d0cf48fc3e5703d4d192ea1efe7c771.jpg?$format_dv_desk_132$",
+            "style": "position: absolute; height: 100%; width: 100%; inset: 0px; object-fit: contain; color: transparent;"
+          },
+          "classList": {},
+          "src": "https://bilder.baur.de/i/empiriecom/1d0cf48fc3e5703d4d192ea1efe7c771.jpg?$format_dv_desk_132$",
+          "tagName": "IMG",
+          "textContent": ""
+        }
+      ],
+      "postAdditionPriceChange": {
+        "1721827025079": 29.99,
+        "1721829209857": 29.99,
+        "1721829412243": 29.99,
+        "1721829478989": 29.99,
+        "1721829946575": 29.99,
+        "1721830084279": 29.99,
+        "1721830117500": 29.99,
+        "1721830504306": 29.99,
+        "1721830601128": 29.99,
+        "1721831875490": 29.99,
+        "1721831903330": 29.99,
+        "1721831906701": 29.99,
+        "1721831913319": 29.99,
+        "1721831919739": 29.99,
+        "1721831927842": 29.99,
+        "1721840365422": 29.99,
+        "1721840433282": 29.99,
+        "1721840436380": 29.99
+      },
+      "tabUrl": "https://www.baur.de/p/lascana-kurzarmshirt-mit-biesenstruktur-buegelfreies-t-shirt-aus-moderner-strukturware/AKLBB1367467230?highlight=18715366%2C84145542&lmPromo=la%2C2%2Chk%2Chomepage%2Cfl%2Chomepage.sortimentsverteilung1.sortimentmba.damenbekleidung.&nav-c=145&p=1&sku=3828414477-32#nav-i=4&ref=mba"
+    },
+    "1721826780763-3221234633": {
+      "_id": "1721826780763-3221234633",
+      "activeOnSite": true,
+      "data": [
+        {
+          "attributes": {
+            "class": "MuiTypography-root MuiTypography-h4 css-171duq7"
+          },
+          "classList": {
+            "0": "MuiTypography-root",
+            "1": "MuiTypography-h4",
+            "2": "css-171duq7"
+          },
+          "tagName": "H1",
+          "textContent": "Beachtime T    T-Shirt, mit feinen Streifen"
+        },
+        {
+          "attributes": {
+            "class": "MuiTypography-root MuiTypography-h4 css-om3qbm"
+          },
+          "classList": {
+            "0": "MuiTypography-root",
+            "1": "MuiTypography-h4",
+            "2": "css-om3qbm"
+          },
+          "currency": "€",
+          "parentAttributes": {
+            "class": "MuiBox-root css-13brihr"
+          },
+          "parentTagName": "DIV",
+          "productPrice": "39,99",
+          "tagName": "DIV",
+          "textContent": "ab 39,99 €"
+        },
+        {
+          "attributes": {
+            "alt": "Beachtime T-Shirt, mit feinen Streifen",
+            "data-nimg": "fill",
+            "data-testid": "0",
+            "decoding": "async",
+            "fetchpriority": "high",
+            "loading": "eager",
+            "src": "https://bilder.baur.de/i/empiriecom/4a8aca830f5d7f969abaa1e4cece388a.jpg?$format_dv_desk_132$",
+            "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent"
+          },
+          "classList": {},
+          "src": "https://bilder.baur.de/i/empiriecom/4a8aca830f5d7f969abaa1e4cece388a.jpg?$format_dv_desk_132$",
+          "tagName": "IMG",
+          "textContent": ""
+        }
+      ],
+      "postAdditionPriceChange": {
+        "1721827025475": 39.99,
+        "1721829210313": 39.99,
+        "1721829412526": 39.99,
+        "1721829479369": 39.99,
+        "1721829946975": 39.99,
+        "1721830084696": 39.99,
+        "1721830117519": 39.99,
+        "1721830504624": 39.99,
+        "1721830601518": 39.99,
+        "1721831875865": 39.99,
+        "1721831903349": 39.99,
+        "1721831906719": 39.99,
+        "1721831913337": 39.99,
+        "1721831919760": 39.99,
+        "1721831927861": 39.99,
+        "1721840365919": 39.99,
+        "1721840433896": 39.99,
+        "1721840436749": 39.99
+      },
+      "tabUrl": "https://www.baur.de/p/beachtime-t-shirt-2er-pack-mit-feinen-streifen/AKLBB613244331?sku=5079513416&ref=reco&lmPromo=la,1,hk,detailview,fl,prudsysProducts_16_15_6196__50795134_product_OutputElement0"
+    },
+    "1721826868219-0040167174": {
+      "_id": "1721826868219-0040167174",
+      "activeOnSite": true,
+      "data": [
+        {
+          "attributes": {
+            "class": "a-size-large product-title-word-break",
+            "id": "productTitle"
+          },
+          "classList": {
+            "0": "a-size-large",
+            "1": "product-title-word-break"
+          },
+          "tagName": "SPAN",
+          "textContent": "Seating Set, 2 x Armchairs with Table, Balcony Furniture Set, Garden Furniture, Balcony Furniture, Lounge Small, Chairs with Upholstery Including Outdoor Garden Table, Weatherproof       "
+        },
+        {
+          "attributes": {
+            "class": "a-price-whole"
+          },
+          "classList": {
+            "0": "a-price-whole"
+          },
+          "currency": "€",
+          "parentAttributes": {
+            "aria-hidden": "true"
+          },
+          "parentTagName": "SPAN",
+          "productPrice": "79",
+          "tagName": "SPAN",
+          "textContent": "79."
+        },
+        {
+          "attributes": {
+            "aria-labelledby": "a-autoid-5-announce",
+            "class": "a-button-input",
+            "type": "submit"
+          },
+          "classList": {
+            "0": "a-button-input"
+          },
+          "src": "https://m.media-amazon.com/images/I/718DQMHWuEL._AC_SL1500_.jpg",
+          "tagName": "INPUT",
+          "textContent": ""
+        }
+      ],
+      "postAdditionPriceChange": {
+        "1721831878370": 79,
+        "1721831908985": 79,
+        "1721831915506": 79,
+        "1721831922053": 79,
+        "1721831929876": 79,
+        "1721840368141": 79,
+        "1721840439267": 79
+      },
+      "tabUrl": "https://www.amazon.de/-/en/Armchairs-Furniture-Upholstery-Including-Weatherproof/dp/B0CP2PGLYP/?_encoding=UTF8&pd_rd_w=IwLeq&content-id=amzn1.sym.c4e08a9f-225a-403a-a3c9-a4d8fc6e9333%3Aamzn1.symc.36bd837a-d66d-47d1-8457-ffe9a9f3ddab&pf_rd_p=c4e08a9f-225a-403a-a3c9-a4d8fc6e9333&pf_rd_r=FNVX2Y3P18PR3T9YSQKE&pd_rd_wg=AXnIY&pd_rd_r=393a9e86-e8f2-4117-bf66-c0d8a53a6450&ref_=pd_hp_d_btf_ci_mcx_mr_hp_atf_m"
+    },
+    "1721827082452-7750220175": {
+      "_id": "1721827082452-7750220175",
+      "activeOnSite": true,
+      "data": [
+        {
+          "attributes": {},
+          "classList": {},
+          "tagName": "H1",
+          "textContent": "\n        Ordner-Archiv-Box "
+        },
+        {
+          "attributes": {
+            "class": "price-tag__integer-digits"
+          },
+          "classList": {
+            "0": "price-tag__integer-digits"
+          },
+          "currency": "€",
+          "parentAttributes": {
+            "class": "price-tag__box js-price-conversion-el"
+          },
+          "parentTagName": "DIV",
+          "productPrice": "4",
+          "tagName": "SPAN",
+          "textContent": "4"
+        },
+        {
+          "attributes": {
+            "alt": "Ordner-Archiv-Box (Wellkarton, 50,5 x 30 x 33,5 cm)",
+            "class": "img-fluid ",
+            "onerror": "if(this.parentNode.children.length > 1) this.parentNode.children[0].remove();",
+            "src": "https://media.cdn.bauhaus/m/482714/13.jpg",
+            "title": "Ordner-Archiv-Box (Wellkarton, 50,5 x 30 x 33,5 cm)"
+          },
+          "classList": {
+            "0": "img-fluid"
+          },
+          "src": "https://media.cdn.bauhaus/m/482714/13.jpg",
+          "tagName": "IMG",
+          "textContent": ""
+        }
+      ],
+      "postAdditionPriceChange": {
+        "1721831878402": 4,
+        "1721831904229": 4,
+        "1721831909017": 4,
+        "1721831915537": 4,
+        "1721831922088": 4,
+        "1721831929910": 4,
+        "1721840369189": 4,
+        "1721840440087": 4
+      },
+      "tabUrl": "https://www.bauhaus.info/umzugskartons/ordner-archiv-box/p/20011985"
+    },
+    "1721581240794-0753646156": {
+      "_id": "1721581240794-0753646156",
+      "activeOnSite": true,
+      "data": [
+        {
+          "attributes": {},
+          "classList": {},
+          "tagName": "H1",
+          "textContent": "Umzugskarton    Set Multibox XM Stapel-Fix "
+        },
+        {
+          "attributes": {
+            "class": "price-tag__integer-digits"
+          },
+          "classList": {
+            "0": "price-tag__integer-digits"
+          },
+          "currency": "€",
+          "parentAttributes": {
+            "class": "price-tag__box js-price-conversion-el"
+          },
+          "parentTagName": "DIV",
+          "productPrice": "21",
+          "tagName": "SPAN",
+          "textContent": "21"
+        },
+        {
+          "attributes": {
+            "alt": "BAUHAUS Umzugskarton-Set Multibox XM Stapel-Fix (10 Stk., Traglast: 30 kg, L x B x H: 58 x 33,5 x 38,5 cm)",
+            "class": "img-fluid ",
+            "onerror": "if(this.parentNode.children.length > 1) this.parentNode.children[0].remove();",
+            "src": "https://media.cdn.bauhaus/m/406994-1/13.jpg",
+            "title": "BAUHAUS Umzugskarton-Set Multibox XM Stapel-Fix (10 Stk., Traglast: 30 kg, L x B x H: 58 x 33,5 x 38,5 cm)"
+          },
+          "classList": {
+            "0": "img-fluid"
+          },
+          "src": "https://media.cdn.bauhaus/m/406994-1/13.jpg",
+          "tagName": "IMG",
+          "textContent": ""
+        }
+      ],
+      "postAdditionPriceChange": {
+        "1721589240794": 18,
+        "1721667640794": 19,
+        "1721757040794": 20,
+        "1721840440794": 10
+      },
+      "tabUrl": "https://www.bauhaus.info/umzugskartons/bauhaus-umzugskarton-set-multibox-xm-stapel-fix/p/26228242"
+    }
+  },
+  "settings": {}
+}

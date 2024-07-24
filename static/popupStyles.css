@@ -1,0 +1,76 @@
+:root {
+    --background-color: rgb(19, 16, 61);;
+    --main-text: yellow;
+}
+
+head {
+    display: none;
+    height: 100%;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--main-text);
+    margin: 0;
+    height: 100%;
+}
+
+#main {
+    display: block;
+    width: 350px;
+    height: 100px;
+}
+
+#adding {
+    display: none;
+    width: 350px;
+    height: 100px;
+}
+
+h1 {
+    display: block;
+    margin: 5% 5%;
+    text-align: center;
+}
+
+#button-container {
+    margin: 0;
+    margin-bottom: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#span-container {
+    display: block;
+}
+
+span {
+    display: block;
+    text-align: center;   
+}
+
+.button {
+    display: inline;
+}
+
+.divider {
+    margin: 0 3%;
+}
+
+button.action {
+    /* Assuming you already have styles for the button */
+    /* Example: */
+    /* margin-top: 20px; */
+    padding: 5px 10px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+button.action:hover {
+    background: #0056b3;
+}
